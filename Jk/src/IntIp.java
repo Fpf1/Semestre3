@@ -22,7 +22,7 @@ public class IntIp {
         this.myIp = this.myIp << 8;
         this.myIp = this.myIp | oct4;
     }
-
+//Al fin sirve
     public IntIp(String cadenaIp) {
         int posicionPunto = cadenaIp.indexOf('.');
         String cadOct1 = cadenaIp.substring(0, posicionPunto);
