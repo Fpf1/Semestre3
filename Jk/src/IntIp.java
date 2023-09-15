@@ -36,7 +36,7 @@ public class IntIp {
         String cadOct4 = cadenaIp.substring(posicionTercerPunto + 1);
         
         short numOct1 = Short.parseShort(cadOct1);
-        
+        short numOct2 = Short.parseShort(cadOct2);
         short numOct3 = Short.parseShort(cadOct3);
         short numOct4 = Short.parseShort(cadOct4);
         
