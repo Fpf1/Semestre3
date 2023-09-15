@@ -8,7 +8,7 @@
 public class IntIp {
     // instance variables - replace the example below with your own
     private int myIp;
-
+//jiji
     /**
      * Constructor for objects of class IntIp
      */
